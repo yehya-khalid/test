@@ -7,16 +7,16 @@
 <choiceCount>2</choiceCount>
 <choiceCount>2</choiceCount>
 </choicesPerQuestion>
-<question qno="1" text="أي هذه الفواكه لونه أصفر؟" choiceCount="2" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/c3207193-b3a8-4867-a6cd-690bd8a12764" imageName="">
-<choice text="التفاح" imageName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/71a43784-746b-4603-8984-17550377f495.png" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/bbba376c-5d93-490a-9429-b263d8e3e781" isCorrect="false"/>
-<choice text="الموز" imageName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/2c2c9f92-40b3-478a-9f53-61b78895df52.png" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/5da4d100-6f61-41c8-b50f-2a0b1a98583d" isCorrect="true"/>
+<question qno="1" text="أي هذه الفواكه لونه أصفر؟" choiceCount="2" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/c3207193-b3a8-4867-a6cd-690bd8a12764" imageName="">
+<choice text="التفاح" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/71a43784-746b-4603-8984-17550377f495.png" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/bbba376c-5d93-490a-9429-b263d8e3e781" isCorrect="false"/>
+<choice text="الموز" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/2c2c9f92-40b3-478a-9f53-61b78895df52.png" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/5da4d100-6f61-41c8-b50f-2a0b1a98583d" isCorrect="true"/>
 </question>
-<question qno="2" text="أي هذه الحيوانات لونه أصفر ؟" choiceCount="2" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/36bcb67a-62ad-48bb-a995-41e2a0bf9a6c" imageName="">
-<choice text="بطة" imageName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/de9ef63f-c113-4e3b-8c14-e1019b4a48ff.png" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/be65eff7-00bb-4108-b00d-6c496aa2635e" isCorrect="true"/>
-<choice text="بقرة" imageName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/22775729-44db-4daf-ba84-b5b77f233c0a.png" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/d1541e06-32c7-4a64-a0ce-c312311dabdf" isCorrect="false"/>
+<question qno="2" text="أي هذه الحيوانات لونه أصفر ؟" choiceCount="2" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/36bcb67a-62ad-48bb-a995-41e2a0bf9a6c" imageName="">
+<choice text="بطة" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/de9ef63f-c113-4e3b-8c14-e1019b4a48ff.png" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/be65eff7-00bb-4108-b00d-6c496aa2635e" isCorrect="true"/>
+<choice text="بقرة" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/22775729-44db-4daf-ba84-b5b77f233c0a.png" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/d1541e06-32c7-4a64-a0ce-c312311dabdf" isCorrect="false"/>
 </question>
-<question qno="3" text="أي هذه الحيوانات لونه أصفر ؟" choiceCount="2" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/36bcb67a-62ad-48bb-a995-41e2a0bf9a6c" imageName="">
-<choice text="بطة" imageName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/de9ef63f-c113-4e3b-8c14-e1019b4a48ff.png" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/be65eff7-00bb-4108-b00d-6c496aa2635e" isCorrect="true"/>
-<choice text="بقرة" imageName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/22775729-44db-4daf-ba84-b5b77f233c0a.png" audioName="http://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/d1541e06-32c7-4a64-a0ce-c312311dabdf" isCorrect="false"/>
+<question qno="3" text="أي هذه الحيوانات لونه أصفر ؟" choiceCount="2" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/36bcb67a-62ad-48bb-a995-41e2a0bf9a6c" imageName="">
+<choice text="بطة" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/de9ef63f-c113-4e3b-8c14-e1019b4a48ff.png" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/be65eff7-00bb-4108-b00d-6c496aa2635e" isCorrect="true"/>
+<choice text="بقرة" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/22775729-44db-4daf-ba84-b5b77f233c0a.png" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/d1541e06-32c7-4a64-a0ce-c312311dabdf" isCorrect="false"/>
 </question>
 </levelConfig>
