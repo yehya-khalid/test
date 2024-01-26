@@ -1,0 +1,25 @@
+<levelConfig>
+	<totalQuestions>
+		<count>2</count>
+	</totalQuestions>
+	<matchUpQuestion qno="1" text="Match Up 1" numberOfItems="2" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/fa2930ff-4aac-4ad6-b26c-0bf743126efd.mp3" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/08d60ed5-ff03-4ad1-9133-bfd87e53cb06.png">
+		<draggableItems>
+			<item id="1" text="A" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/75bc069e-8b6d-4b32-ac5e-ff8601cd59ed" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/08d60ed5-ff03-4ad1-9133-bfd87e53cb06.png" />
+			<item id="2" text="B" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/2ffbe3d3-5d0f-4403-a2c3-caddf39a6153" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/83b97c59-4165-4f8c-b931-89743ca3f748.png" />
+		</draggableItems>
+		<dropTargets>
+			<target id="1" text="A" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/fa2930ff-4aac-4ad6-b26c-0bf743126efd" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/83b97c59-4165-4f8c-b931-89743ca3f748.png" />
+			<target id="2" text="B" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/75bc069e-8b6d-4b32-ac5e-ff8601cd59ed" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/08d60ed5-ff03-4ad1-9133-bfd87e53cb06.png" />
+		</dropTargets>
+	</matchUpQuestion>
+	<matchUpQuestion qno="2" text="Match Up 2" numberOfItems="2" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/3b8ba2ea-a37e-4b41-a342-6e8b660f22c0.mp3" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/08d60ed5-ff03-4ad1-9133-bfd87e53cb06.png">
+		<draggableItems>
+			<item id="1" text="AA" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/fa2930ff-4aac-4ad6-b26c-0bf743126efd" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/83b97c59-4165-4f8c-b931-89743ca3f748.png" />
+			<item id="2" text="BB" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/fa2930ff-4aac-4ad6-b26c-0bf743126efd" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/08d60ed5-ff03-4ad1-9133-bfd87e53cb06.png" />
+		</draggableItems>
+		<dropTargets>
+			<target id="1" text="AA" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/fa2930ff-4aac-4ad6-b26c-0bf743126efd" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/08d60ed5-ff03-4ad1-9133-bfd87e53cb06.png" />
+			<target id="2" text="BB" audioName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/cee4c00b-0635-486a-b7c5-c3f99e7515d3" imageName="https://lamsa-testing-purposes.s3.amazonaws.com/assessment-assets-test/83b97c59-4165-4f8c-b931-89743ca3f748.png" />
+		</dropTargets>
+	</matchUpQuestion>
+</levelConfig>
